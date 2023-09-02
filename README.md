@@ -12,7 +12,7 @@ Prajwal JT</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I'm currently diving into the world of coding and actively working on my projects to learn and grow. Every line of code is a step forward, and I'm excited about the journey ahead!
 
 - 🤝 I’m available for freelancing.
 
